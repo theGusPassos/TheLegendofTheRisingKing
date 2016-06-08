@@ -1,0 +1,140 @@
+Slime
+0
+l 0
+h 3
+a 0
+d 0
+w 1
+ Soldier
+1
+l 1
+h 8
+a 2
+d 0
+w 2
+ Jailer
+2
+l 2
+h 10
+a 2
+d 0
+w 3
+ Khez
+3
+l 3
+h 15
+a 2
+d 0
+w 4
+ Kawrosk
+4
+l 5
+h 17
+a 4
+d 0
+w 1
+ Trars
+5
+l 5
+h 20
+a 3
+d 3
+w 1
+ Jacub
+6
+l 7
+h 25
+a 2
+d 4
+w 1
+ Winged Ob
+7
+l 6
+h 25
+a 2
+d 1
+w 4
+ Blefyhl
+8
+l 12
+h 50
+a 6
+d 4
+w 4
+ Wulo
+9
+l 10
+h 33
+a 5
+d 5
+w 4
+ Gnoss
+10
+l 11
+h 20
+a 4
+d 2
+w 3
+ Cursed Ob
+11
+l 12
+h 35
+a 1
+d 5
+w 3
+ Atehm
+12
+l 13
+h 30
+a 5
+d 3
+w 1
+ Xauhnulst
+13
+l 15
+h 70
+a 1
+d 7
+w 2
+ Fear
+14
+l 17
+h 50
+a 10
+d 2
+w 1
+ Gorlab
+15
+l 18
+h 50
+a 10
+d 4
+w 1
+ Brown Mage
+16
+l 10
+h 35
+a 10
+d 2
+w 1
+ White Mage
+17
+l 15
+h 50
+a 7
+d 3
+w 3
+ Blue Mage
+18
+l 20
+h 70
+a 10
+d 10
+w 4
+ Fire Mage
+19
+l 20
+h 100
+a 12
+d 10
+w 2

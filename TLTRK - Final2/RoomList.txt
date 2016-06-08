@@ -1,0 +1,217 @@
+ Hallway
+0
+1
+0
+0
+0
+t - 0
+ Hall I
+1
+2
+0
+0
+0
+t - 0
+ Hall II
+2
+3
+0
+0
+1
+t - 1
+ Hall III
+3
+4
+0
+0
+2
+t - 1
+ Hall IV
+4
+5
+0
+0
+3
+t - 1
+ Session Change
+5
+19
+14
+6
+4
+t - 1
+ Session Mago Branco-Azul
+6
+0
+5
+7
+0
+t - 4
+ Hall of Mirrors I
+7
+0
+6
+8
+0
+t - 4
+ Hall of Mirrors II
+8
+10
+7
+0
+9
+t - 4
+ White Mage Cell
+9
+8
+0
+0
+0
+t - 0
+ Stairs to the Basement
+10
+11
+0
+0
+8
+t - 3
+ Basement I
+11
+12
+0
+0
+8
+t - 3
+ Basement II
+12
+0
+0
+13
+10
+t - 3
+ Blue Mage Cell
+13
+0
+12
+0
+0
+t - 0
+ Brown Mage Session
+14
+0
+15
+5
+0
+t - 2
+ Dark Hall I
+15
+0
+16
+14
+0
+t - 2
+ Dark Hall II
+16
+0
+0
+15
+17
+t - 2
+ Entrance to Cell
+17
+16
+0
+0
+18
+t - 2
+ Brown Mage Cell
+18
+17
+0
+0
+0
+t - 0
+ Fire Mage Session
+19
+20
+0
+0
+5
+t - 5
+ Obsidian Hall I
+20
+21
+0
+0
+19
+t - 5
+ Obsidian Hall II
+21
+22
+29
+0
+20
+t - 5
+ Obsidian Hall III
+22
+23
+0
+0
+21
+t - 5
+ Obsidan Hall IV
+23
+24
+0
+0
+22
+t - 5
+ Obsidian Hall V
+24
+0
+25
+0
+23
+t - 5
+ Slaughter Room 001
+25
+0
+26
+24
+0
+t - 5
+ Slaughter Room 002
+26
+30
+0
+25
+27
+t - 5
+ Slaughter Room 003
+27
+26
+0
+0
+28
+t - 5
+ Bloody Room
+28
+27
+0
+29
+0
+t - 5
+ Emergency Room
+29
+0
+28
+21
+0
+t - 5
+ Fire Mage Cell
+30
+0
+0
+0
+26
+t - 0

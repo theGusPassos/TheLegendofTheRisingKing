@@ -1,0 +1,6 @@
+ELEMENTS > FIRE 1
+		WATER 2
+		EARTH 3
+		THUNDER 4
+
+Earth > Thunder > Water > Fire4
